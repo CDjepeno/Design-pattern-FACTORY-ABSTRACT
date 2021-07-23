@@ -10,6 +10,4 @@ export class RunFurniture {
     const sofa = new ArtDecoLowTable()
     return sofa.hasLegs()
   }
-
-
 }
